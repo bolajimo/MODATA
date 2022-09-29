@@ -1,0 +1,39 @@
+h2{
+    color: white;
+    background-color:green
+}
+ul{
+    list-style: none;
+}
+
+li{
+    
+    line-height: 3;
+    letter-spacing: 5;
+    color: red;
+    border: 40px;
+}
+.dot{
+    font-size: 14px;
+}
+body{
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 150%; font-family: Arial;
+}
+
+.search-section{
+    padding: 5px;
+    margin: 3px;
+    background-color: white
+}
+
+
+input{
+    width: 40%;
+    color: green;
+    border: 10px solid blue;
+}
+
+
